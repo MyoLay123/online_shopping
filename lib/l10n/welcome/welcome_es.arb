@@ -1,0 +1,19 @@
+{
+  "@@locale": "es",
+  "line1": "Live Your",
+  "@line1": {
+    "description": "Text shown in the first line of the Welcome Page"
+  },
+  "line2": "Perfect",
+  "@line2": {
+    "description": "Text shown in the second line of the Welcome Page"
+  },
+  "slogan": "Smart, gorgeous & fashionable \n collection makes you cool",
+  "@slogan": {
+    "description": "Text shown in the slogan of the Welcome Page"
+  },
+  "start": "Start",
+  "@start": {
+    "description": "Text shown in the start button of the Welcome Page"
+  }
+}

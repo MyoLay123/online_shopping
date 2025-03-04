@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/myomin/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/myomin/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/myomin/projects/flutter/online_shop/android/app/.cxx/Debug/472pk5g1/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/myomin/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/myomin/projects/flutter/online_shop/android/app/.cxx/Debug/472pk5g1/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
