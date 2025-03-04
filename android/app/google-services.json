@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886723220313",
+    "project_id": "ecommerce-mobile-app-9870d",
+    "storage_bucket": "ecommerce-mobile-app-9870d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886723220313:android:0ec1421394e4d51e73f248",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.online_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5i8FvzydLChjip2F4CWoyH_nLEVYHPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -36,7 +36,7 @@ class App extends StatelessWidget {
       initialRoute: '/',
       routes: {
         RoutePath.welcome: (context) => const WelcomePage(),
-        RoutePath.product: (context) => const ProductPage(),
+        RoutePath.product: (context) => ProductListPage(),
       },
     );
   }
